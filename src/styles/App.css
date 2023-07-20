@@ -10,3 +10,17 @@ button{
     justify-content: center;
     align-items: center;
 }
+
+.markdown-app{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+}
+
+markdown-input{
+    width: 50%;
+}
+
+markdown-output{
+    width: 50%;
+}
